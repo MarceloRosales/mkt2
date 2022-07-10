@@ -6,7 +6,7 @@ repo_name: squidfunk/mkdocs-material
 nav:
   - Home: index.md
   - Page1: Page1.md
-  - MkDocs: MkDocs.md
+  - Page2: Page2.md
 
 theme: 
 #  name: readthedocs 
