@@ -27,4 +27,13 @@
          <xhtml:link rel="alternate" hreflang="es" href="https://example.com_or_my.github/es/Page2/"/>
          
     </url>
+    <url>
+         <loc>https://example.com_or_my.github/Page3/</loc>
+         <lastmod>2022-07-10</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://example.com_or_my.github/en/Page3/"/>
+         <xhtml:link rel="alternate" hreflang="ja" href="https://example.com_or_my.github/ja/Page3/"/>
+         <xhtml:link rel="alternate" hreflang="es" href="https://example.com_or_my.github/es/Page3/"/>
+         
+    </url>
 </urlset>
