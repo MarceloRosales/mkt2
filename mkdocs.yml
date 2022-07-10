@@ -5,7 +5,7 @@ repo_name: squidfunk/mkdocs-material
 
 nav:
   - Home: index.md
-  - VS_Code: VS_Code.md
+  - Page1: Page1.md
   - MkDocs: MkDocs.md
 
 theme: 
